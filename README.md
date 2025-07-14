@@ -8,4 +8,4 @@ It demonstrates basic input handling, loops, and arithmetic operations.
 - Simple command line interface
 
 ## How to Use
-Run the program and follow the instructions to enter your grades
+Run the program and follow the instructions to enter your grades.
