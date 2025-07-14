@@ -1,6 +1,6 @@
 # grade-average-calculator
-basic grade average calculator in python
-This simple Python program calculates the weighted average of grades entered by the user.
+This is a simple Python project that calculates the average of grades entered by the user.  
+It demonstrates basic input handling, loops, and arithmetic operations.
 
 ## Features
 - Input course  grades
