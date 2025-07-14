@@ -1,6 +1,6 @@
-birinci_not=float(input("Birinci notu giriniz :"))
-ikinci_not=float(input("İkinci notu giriniz :"))
-ucuncu_not=float(input("Üçüncü notu giriniz :"))
-Ortalama = (birinci_not + ikinci_not + ucuncu_not)/ 3
-print(round(Ortalama,1))
+first_grade=float(input("Enter the first grade :"))
+second_grade=float(input("Enter the second grade :"))
+third_grade=float(input("Enter the third grade :"))
+Average = (first_grade + second_grade + third_grade)/ 3
+print(round(Average,1))
 
